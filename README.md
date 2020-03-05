@@ -1,6 +1,6 @@
 # hello-world
-Hello-World\n
+Hello-World
 
-Learning puppet and GIT\n
+Learning puppet and GIT
 
 Second branch
